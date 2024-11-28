@@ -52,8 +52,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the contributors who helped improve this project.
 
 ---
-
-Feel free to customize any sections according to your specific needs or preferences!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/34812455/d588a0c2-9a10-4021-9bbf-38f59132a664/nlp_dataset.csv
