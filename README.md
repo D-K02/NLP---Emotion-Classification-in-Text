@@ -17,7 +17,7 @@ The dataset used for this project is `nlp_dataset.csv`, which includes various t
 ## Project Structure
 - `nlp_dataset.csv`: The dataset containing text samples and their associated emotions.
 - `NLP - Emotion Classification in Text.ipynb`: Jupyter Notebook containing the complete code for loading, preprocessing the data, feature extraction, model training, and evaluation.
-- `requirements.txt`: A file listing the required Python packages for running the project.
+
 
 ## Installation
 To run this project, you need to have Python installed on your machine. You can set up the environment by following these steps:
