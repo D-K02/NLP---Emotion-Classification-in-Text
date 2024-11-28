@@ -28,10 +28,6 @@ To run this project, you need to have Python installed on your machine. You can 
    cd emotion-classification
    ```
 
-2. Install required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 1. Open the `emotion_classification.ipynb` notebook in Jupyter Notebook or Jupyter Lab.
